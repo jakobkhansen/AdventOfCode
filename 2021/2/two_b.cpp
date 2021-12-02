@@ -21,11 +21,6 @@ int main() {
     }
     if (command == "up") aim -= commandVal;
     if (command == "down") aim += commandVal;
-    cout << command << " " << commandVal << endl;
-    cout << "Hor: " << hor << endl;
-    cout << "Depth: " << depth << endl;
-    cout << "Aim: " << aim << endl;
-    cout << endl;
   }
 
   cout << (hor*depth) << endl;
