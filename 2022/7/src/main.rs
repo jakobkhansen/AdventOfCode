@@ -5,28 +5,15 @@ use std::{
     io::{self, BufRead},
 };
 
+#[derive(Debug)]
 struct Filesystem {
     root: Box<Node>,
 }
+
+#[derive(Debug)]
 struct Node {
     file_size_sum: i32,
     children: HashMap<String, Box<Node>>,
-}
-impl Debug for Node {
-    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        f.debug_struct("Node")
-            .field("file_size_sum", &self.file_size_sum)
-            .field("children", &self.children)
-            .finish()
-    }
-}
-
-impl Debug for Filesystem {
-    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        f.debug_struct("Filesystem")
-            .field("root", &self.root)
-            .finish()
-    }
 }
 
 impl Filesystem {
