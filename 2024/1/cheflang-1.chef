@@ -1,0 +1,141 @@
+Why Would I do this cake.
+
+https://esolangpark.vercel.app/ide/chef
+
+Ingredients.
+0 g stdin
+100 g numinputs
+0 g inputs
+0 g outerinputs
+0 g copyleftlist
+0 g copy
+0 g ifbranch
+0 g elsebranch
+0 g moveloop
+1 g one
+0 g zero
+0 g smallest
+0 g output
+
+Method.
+Put numinputs into 9th mixing bowl.
+Fold inputs into 9th mixing bowl.
+Read the inputs.
+Take stdin from refrigerator.
+Put stdin into 2nd mixing bowl.
+Take stdin from refrigerator.
+Put stdin into 3rd mixing bowl.
+Read the inputs until readed.
+Put numinputs into 9th mixing bowl.
+Fold outerinputs into 9th mixing bowl.
+SortLoop the outerinputs.
+Put outerinputs into 9th mixing bowl.
+Remove one from 9th mixing bowl.
+Fold inputs into 9th mixing bowl.
+Fold smallest into 2nd mixing bowl.
+Loop the inputs.
+Clean 8th mixing bowl.
+Clean 9th mixing bowl.
+Put smallest into 9th mixing bowl.
+Fold copy into 2nd mixing bowl.
+Put copy into 8th mixing bowl.
+Serve with less than.
+Fold ifbranch into 1st mixing bowl.
+Fold elsebranch into the 1st mixing bowl.
+IfLoop the ifbranch.
+Put smallest into 4th mixing bowl.
+Fold smallest into 8th mixing bowl.
+IfLoop the ifbranch until iflooped.
+ElseBranch the elsebranch.
+Fold copy into 8th mixing bowl.
+Put copy into 4th mixing bowl.
+ElseBranch the elsebranch until elsebranched.
+Loop the inputs until looped.
+Put smallest into 10th mixing bowl.
+Put outerinputs into 9th mixing bowl.
+Remove one from 9th mixing bowl.
+Fold copyleftlist into 9th mixing bowl.
+MoveLoop the copyleftlist.
+Fold copy into 4th mixing bowl.
+Put copy into 2nd mixing bowl.
+MoveLoop the copyleftlist until movelooped.
+SortLoop the outerinputs until sortlooped.
+Put numinputs into 9th mixing bowl.
+Fold outerinputs into 9th mixing bowl.
+SortLoop the outerinputs.
+Put outerinputs into 9th mixing bowl.
+Remove one from 9th mixing bowl.
+Fold inputs into 9th mixing bowl.
+Fold smallest into 3rd mixing bowl.
+Loop the inputs.
+Clean 8th mixing bowl.
+Clean 9th mixing bowl.
+Put smallest into 9th mixing bowl.
+Fold copy into 3rd mixing bowl.
+Put copy into 8th mixing bowl.
+Serve with less than.
+Fold ifbranch into 1st mixing bowl.
+Fold elsebranch into the 1st mixing bowl.
+IfLoop the ifbranch.
+Put smallest into 4th mixing bowl.
+Fold smallest into 8th mixing bowl.
+IfLoop the ifbranch until iflooped.
+ElseBranch the elsebranch.
+Fold copy into 8th mixing bowl.
+Put copy into 4th mixing bowl.
+ElseBranch the elsebranch until elsebranched.
+Loop the inputs until looped.
+Put smallest into 11th mixing bowl.
+Put outerinputs into 9th mixing bowl.
+Remove one from 9th mixing bowl.
+Fold copyleftlist into 9th mixing bowl.
+MoveLoop the copyleftlist.
+Fold copy into 4th mixing bowl.
+Put copy into 3rd mixing bowl.
+MoveLoop the copyleftlist until movelooped.
+SortLoop the outerinputs until sortlooped.
+Clean 9th mixing bowl.
+Clean 2nd mixing bowl.
+Put zero into 2nd mixing bowl.
+DiffLoop the numinputs.
+Fold copy into 11th mixing bowl.
+Put copy into 8th mixing bowl.
+Fold copy into 10th mixing bowl.
+Put copy into 9th mixing bowl.
+Serve with less than.
+Fold ifbranch into 1st mixing bowl.
+Fold elsebranch into 1st mixing bowl.
+IfLoop the ifbranch.
+Fold copy into 9th mixing bowl.
+Add copy to 2nd mixing bowl.
+Fold copy into 8th mixing bowl.
+Remove copy from 2nd mixing bowl.
+IfLoop the ifbranch until iflooped.
+ElseLoop the elsebranch.
+Fold copy into 8th mixing bowl
+Add copy to 2nd mixing bowl.
+Fold copy into 9th mixing bowl.
+Remove copy from 2nd mixing bowl.
+ElseLoop the elsebranch until elselooped.
+DiffLoop the numinputs until difflooped.
+Pour contents of the 2nd mixing bowl into the 1st baking dish.
+
+Serves 1.
+
+less than.
+
+Ingredients.
+1 g one
+0 g zero
+0 g left
+0 g right
+0 g output
+
+Method.
+Clean 1st mixing bowl.
+Put one into 1st mixing bowl.
+Put zero into 1st mixing bowl.
+Fold left into 8th mixing bowl.
+Remove left from 9th mixing bowl.
+Fold right into the 9th mixing bowl.
+Stir right into the 1st mixing bowl.
